@@ -1,0 +1,4 @@
+venv
+*.log
+*.pdf
+*.pyc
